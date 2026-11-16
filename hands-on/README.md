@@ -2,6 +2,8 @@
 
 Zwei Jobs, die aufeinander aufbauen: die Simulation und eine Auswertung, die von ihr abhängt.
 
+```curl -fsSL https://raw.githubusercontent.com/matthias-k/r3-tooling/builder-camp/bootstrap.sh | bash```
+
 ## Voraussetzungen
 - r3 (Schritt 0 der Präsentation), `$R3_REPOSITORY` gesetzt
 - GROMACS (`gmx` im PATH), `wget`
