@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(r3 find *)",
+      "Bash(r3 ls *)",
+      "Bash(r3 commit *)",
+      "Bash(diff *)"
+    ],
+    "deny": [
+      "Bash(*mdrun*)",
+      "Bash(bash *run.sh*)",
+      "Bash(sh *run.sh*)",
+      "Bash(./run.sh*)",
+      "Bash(*/run.sh*)",
+      "Bash(source *)",
+      "Bash(nohup *)",
+      "Bash(sbatch *)",
+      "Bash(srun *)",
+      "Bash(xr3-slurm *)",
+      "Bash(r3 checkout *)",
+      "Bash(r3 remove *)",
+      "Bash(r3 edit *)",
+      "Bash(r3 rebuild-index *)",
+      "Edit(/template/**)",
+      "Edit(/template-analysis/**)",
+      "Edit(/CLAUDE.md)"
+    ]
+  }
+}

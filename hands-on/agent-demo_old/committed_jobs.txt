@@ -1,0 +1,14 @@
+# 2026-11-16 14:55 · 1AKI lysozyme, amber99sb-ildn/TIP3P (Amber cutoffs), 10 ns at 300, 350 and 370 K, one replicate each
+d78e70d3-a102-4781-ba75-a2b6ec9f8d55  Demo/1AKI/300K/rep1
+    1AKI | amber99sb-ildn/tip3p | dodecahedron 1.0 nm | 0.15 M NaCl | 300 K | 10 ns | Seed 1001
+    ansehen:  $R3_REPOSITORY/jobs/d78e70d3-a102-4781-ba75-a2b6ec9f8d55/
+    starten:  r3 checkout d78e70d3-a102-4781-ba75-a2b6ec9f8d55 ~/runs/1aki-amber-300K-rep1 && cd ~/runs/1aki-amber-300K-rep1 && bash run.sh
+3f07543f-9ac6-4ac7-ad71-0ba12dc20642  Demo/1AKI/350K/rep1
+    1AKI | amber99sb-ildn/tip3p | dodecahedron 1.0 nm | 0.15 M NaCl | 350 K | 10 ns | Seed 1002
+    ansehen:  $R3_REPOSITORY/jobs/3f07543f-9ac6-4ac7-ad71-0ba12dc20642/
+    starten:  r3 checkout 3f07543f-9ac6-4ac7-ad71-0ba12dc20642 ~/runs/1aki-amber-350K-rep1 && cd ~/runs/1aki-amber-350K-rep1 && bash run.sh
+6874ba8e-a0ee-4c00-a17b-cb872aa5635a  Demo/1AKI/370K/rep1
+    1AKI | amber99sb-ildn/tip3p | dodecahedron 1.0 nm | 0.15 M NaCl | 370 K | 10 ns | Seed 1003
+    ansehen:  $R3_REPOSITORY/jobs/6874ba8e-a0ee-4c00-a17b-cb872aa5635a/
+    starten:  r3 checkout 6874ba8e-a0ee-4c00-a17b-cb872aa5635a ~/runs/1aki-amber-370K-rep1 && cd ~/runs/1aki-amber-370K-rep1 && bash run.sh
+

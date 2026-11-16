@@ -1,0 +1,4 @@
+dependencies:
+  - find_latest: {path: lysozyme/md}
+    source: output
+    destination: md

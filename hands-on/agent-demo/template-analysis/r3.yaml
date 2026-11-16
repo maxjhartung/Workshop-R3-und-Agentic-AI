@@ -1,0 +1,4 @@
+dependencies:
+  - find_latest: {path: VOM_AGENTEN_ZU_SETZEN}
+    source: output
+    destination: md
